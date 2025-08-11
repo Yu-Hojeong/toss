@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: bb88977a6a61fb64ea75e30503637278
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7000392234473440030
+    second: geometric-animals-vector-paper-craft-cut-out-mixed_0
+  - first:
+      213: 8424824415990431237
+    second: geometric-animals-vector-paper-craft-cut-out-mixed_1
+  - first:
+      213: 3846696536672951607
+    second: geometric-animals-vector-paper-craft-cut-out-mixed_2
+  - first:
+      213: 7866424485402519557
+    second: geometric-animals-vector-paper-craft-cut-out-mixed_3
+  - first:
+      213: -3168414432337074320
+    second: geometric-animals-vector-paper-craft-cut-out-mixed_4
+  - first:
+      213: 2071632472523782447
+    second: geometric-animals-vector-paper-craft-cut-out-mixed_5
+  - first:
+      213: 2737531856447466769
+    second: geometric-animals-vector-paper-craft-cut-out-mixed_6
+  - first:
+      213: -7312978798568501704
+    second: geometric-animals-vector-paper-craft-cut-out-mixed_7
+  - first:
+      213: -7138996950684573694
+    second: geometric-animals-vector-paper-craft-cut-out-mixed_8
+  - first:
+      213: -1957333846927770836
+    second: geometric-animals-vector-paper-craft-cut-out-mixed_9
+  - first:
+      213: 1135037987112547523
+    second: geometric-animals-vector-paper-craft-cut-out-mixed_10
+  - first:
+      213: 534874310510712696
+    second: geometric-animals-vector-paper-craft-cut-out-mixed_11
+  - first:
+      213: -8215132018935908081
+    second: geometric-animals-vector-paper-craft-cut-out-mixed_12
+  - first:
+      213: 4448666138032422143
+    second: geometric-animals-vector-paper-craft-cut-out-mixed_13
+  - first:
+      213: 4974926864235111685
+    second: geometric-animals-vector-paper-craft-cut-out-mixed_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: geometric-animals-vector-paper-craft-cut-out-mixed_0
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1830
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fcfccd1d31b7c4c91a409958f566a4
+      internalID: 1454457001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geometric-animals-vector-paper-craft-cut-out-mixed_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1850
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c210c30af6e02946a3bc27b57c76f89
+      internalID: 956174057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geometric-animals-vector-paper-craft-cut-out-mixed_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1488
+        width: 299
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13690aff654dd6845ad775d26ac07a63
+      internalID: 48407972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geometric-animals-vector-paper-craft-cut-out-mixed_3
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1539
+        width: 315
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbfab09153cf3643afab3737967c7eb
+      internalID: 45023915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geometric-animals-vector-paper-craft-cut-out-mixed_4
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1511
+        width: 270
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca4f31adf2f6314eafb146b96536de9
+      internalID: -1027017027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geometric-animals-vector-paper-craft-cut-out-mixed_5
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1529
+        width: 385
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5f2a009b9f5704fa01822bc803685a
+      internalID: -1484017408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geometric-animals-vector-paper-craft-cut-out-mixed_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 882
+        width: 406
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc8c49f72baddb45b49183759ae70d0
+      internalID: 1934954638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geometric-animals-vector-paper-craft-cut-out-mixed_7
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 879
+        width: 287
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dd62bc817fb8f4e81b60bc951da6c0
+      internalID: -1375242786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geometric-animals-vector-paper-craft-cut-out-mixed_8
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 836
+        width: 327
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc19de0c381975419c575488082db8d
+      internalID: -1520922827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geometric-animals-vector-paper-craft-cut-out-mixed_9
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 931
+        width: 59
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf3fb934d649414595db5fce9f54a00
+      internalID: 114169858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geometric-animals-vector-paper-craft-cut-out-mixed_10
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 854
+        width: 392
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b774c428792094cb26fc012342e15c
+      internalID: -1617063719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geometric-animals-vector-paper-craft-cut-out-mixed_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 221
+        width: 381
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c19289d21e52a499a8027bb69d24a4
+      internalID: 62345716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geometric-animals-vector-paper-craft-cut-out-mixed_12
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 195
+        width: 381
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d32da4924e91234384dd56b1a29b872
+      internalID: 160114204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geometric-animals-vector-paper-craft-cut-out-mixed_13
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 106
+        width: 261
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bf4e8826dff1a4dbc4e302031256a8
+      internalID: -1485677204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geometric-animals-vector-paper-craft-cut-out-mixed_14
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 202
+        width: 226
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463f365db840a9c40a640488a5dd722e
+      internalID: 1911456845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 53e5ee4ab4e69ee49ba526c948eefea1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      geometric-animals-vector-paper-craft-cut-out-mixed_0: 1454457001
+      geometric-animals-vector-paper-craft-cut-out-mixed_1: 956174057
+      geometric-animals-vector-paper-craft-cut-out-mixed_10: -1617063719
+      geometric-animals-vector-paper-craft-cut-out-mixed_11: 62345716
+      geometric-animals-vector-paper-craft-cut-out-mixed_12: 160114204
+      geometric-animals-vector-paper-craft-cut-out-mixed_13: -1485677204
+      geometric-animals-vector-paper-craft-cut-out-mixed_14: 1911456845
+      geometric-animals-vector-paper-craft-cut-out-mixed_2: 48407972
+      geometric-animals-vector-paper-craft-cut-out-mixed_3: 45023915
+      geometric-animals-vector-paper-craft-cut-out-mixed_4: -1027017027
+      geometric-animals-vector-paper-craft-cut-out-mixed_5: -1484017408
+      geometric-animals-vector-paper-craft-cut-out-mixed_6: 1934954638
+      geometric-animals-vector-paper-craft-cut-out-mixed_7: -1375242786
+      geometric-animals-vector-paper-craft-cut-out-mixed_8: -1520922827
+      geometric-animals-vector-paper-craft-cut-out-mixed_9: 114169858
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
